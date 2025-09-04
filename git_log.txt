@@ -1,0 +1,45 @@
+commit 8e0c6161ecce212e181110c043cb3c93fb09d65a
+Merge: bb87721 c14f771
+Author: bingston222 <nhernandez0437@gmail.com>
+Date:   Thu Sep 4 12:43:52 2025 -0700
+
+    resolved merge conflict with index-fix
+
+commit c14f7718a56711096c506c782e8f84e328208f33
+Author: bingston222 <nhernandez0437@gmail.com>
+Date:   Thu Sep 4 12:35:17 2025 -0700
+
+    added favorite game to index.html
+
+commit bb87721e0b46e84bf1a91e7b73ec1afa7f0687f2
+Author: bingston222 <nhernandez0437@gmail.com>
+Date:   Thu Sep 4 12:32:29 2025 -0700
+
+    added favorite food to index.html
+
+commit d42455b5e8d59c3fee0315255f16b364a56e0eac
+Author: bingston222 <nhernandez0437@gmail.com>
+Date:   Thu Sep 4 11:57:37 2025 -0700
+
+    Added README.md to the repo
+
+commit 29e25ffbe3892d1289fb94889b647c8ac7909cbb
+Merge: 1d2bfc0 88d2722
+Author: bingston222 <nhernandez0437@gmail.com>
+Date:   Thu Sep 4 11:49:08 2025 -0700
+
+    Merge pull request #1 from bingston222/info-fill
+    
+    filled in the blanks in index.html
+
+commit 88d27221f03681b1cb089d749cfe3dc172d3de51
+Author: bingston222 <nhernandez0437@gmail.com>
+Date:   Thu Sep 4 11:25:24 2025 -0700
+
+    filled in the blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
